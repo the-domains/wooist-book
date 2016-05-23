@@ -1,0 +1,14 @@
+layout_spectrum: 0.3319406653754413
+typography_spectrum: 0.9126413015183061
+color:
+  brandStrength: 0.7772950530052185
+  lightness: 0.658422663109377
+  saturation: 0.46781115466728806
+  rhythmicContrast: 0.6864530344028026
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Wooist Book
